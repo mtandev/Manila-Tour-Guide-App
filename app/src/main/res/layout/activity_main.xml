@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        style="@style/home_layout">
+        
+        <TextView
+            android:id="@+id/home_header"
+            style="@style/home_header"
+            android:text="@string/home_header"/>
+
+        <LinearLayout
+            android:id="@+id/nav_bar"
+            style="@style/nav_bar">
+
+            <ImageView
+                android:id="@+id/home_icon"
+                style="@style/nav_icons"
+                android:src="@mipmap/home_icon"/>
+
+            <ImageView
+                android:id="@+id/whattosee_icon"
+                style="@style/nav_icons"
+                android:src="@mipmap/whattosee_icon"/>
+
+            <ImageView
+                android:id="@+id/hotel_icon"
+                style="@style/nav_icons"
+                android:src="@mipmap/hotel_icon"/>
+
+            <ImageView
+                android:id="@+id/events_icon"
+                style="@style/nav_icons"
+                android:src="@mipmap/events_icon"/>
+
+            <ImageView
+                android:id="@+id/restaurant_icon"
+                style="@style/nav_icons"
+                android:src="@mipmap/restaurant_icon"/>
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/home_photo"
+            style="@style/home_photo"
+            android:src="@drawable/main_photo" />
+
+        <TextView
+            android:id="@+id/home_text"
+            style="@style/home_text" />
+        
+    </LinearLayout>
+
+</ScrollView>

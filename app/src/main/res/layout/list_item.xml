@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_title"
+        style="@style/item_title"
+        android:text="@string/home_header"/>
+
+    <ImageView
+        android:id="@+id/item_photo"
+        style="@style/home_photo"
+        android:src="@drawable/main_photo"/>
+
+    <TextView
+        android:id="@+id/item_text"
+        style="@style/item_text"
+        android:text="@string/home_text"/>
+
+</LinearLayout>

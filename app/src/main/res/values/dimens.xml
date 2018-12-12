@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_home">30sp</dimen>
+    <dimen name="margin_home">16dp</dimen>
+    <dimen name="padding_home">5dp</dimen>
+    <dimen name="margin_item">10dp</dimen>
+</resources>

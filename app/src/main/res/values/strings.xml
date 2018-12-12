@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Manila Tour Guide App</string>
+
+    <!--home-->
+    <string name="category_title">Category Title</string>
+    <string name="home_header">Manila: Your Home Away from Home</string>
+    <string name="home_text">Many travelers have come to Manila and fallen in love with the city and its people.\n
+        So much so that some of them consider moving here.\n
+        The reason being – when you\’re here, you\’re family.\n
+        We Filipinos are known for our hospitality. </string>
+
+    <!--nav bar names-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="whattosee">What To See</string>
+    <string name="events">Events</string>
+
+    <!-- hotels -->
+    <string name="sofitel_title">Sofitel Philippine Plaza Manila</string>
+    <string name="sofitel_text">\"Make your grand arrival at an inspired 5-star luxury resort hotel in Manila, a cultural oasis by the sparkling bay.\n
+        Designed by National Artists Leandro Locsin and Ildefonso P. Santos, the structural masterpiece welcomes you with its geometric chic style.\n
+        Please join us for a Magnifique voyage to the tropical splendour of Manila.\n
+        We look forward to welcoming you with our refined French art de recevoir blended with the gracious and heartfelt warmth of the Filipino spirit.\n
+        Life is Magnifique in Manila.\" - The General Manager</string>
+
+    <string name="shangrila_title">Shangri-La Makati</string>
+    <string name="shangrila_text">A stay at Makati Shangri-La, Manila, is an unforgettable one.\n
+        Shangri-La, Manila is a renowned five-star luxury hotel in Makati City.\n
+        The hotel offers you the opportunity to experience the heart of Manila from the very centre of Makati\'s\n
+        most prestigious business, shopping and entertainment district. </string>
+
+    <string name="peninsula_title">The Peninsula</string>
+    <string name="peninsula_text"> Located in the center of Makati City,\n
+        The Peninsula Manila has set the benchmark for luxury and sophistication for over four decades.\n
+        Known affectionately as the \“Jewel in the Capital\’s Crown\” for its legendary presence in the heart of the Philippines\’ primary business district,\n
+        it is a luxurious haven of comfort, of quality service and of fine cuisine, and is as much a favorite with discerning locals as it is with visitors from overseas. </string>
+
+    <string name="airbnb_title">Airbnb</string>
+    <string name="airbnb_text">For the special guest looking for a home away from home, Airbnb is a fantastic option.\n
+        There are a lot of budget-friendly apartments available in the Metro Manila area that will make you feel right at home during your stay in Manila.</string>
+
+
+    <!--what to see-->
+    <string name="intramuros_title">Intramuros</string>
+    <string name="intramuros_text">Intramuros is the historic centre and oldest district of Manila, the capital city of the Philippines.\n
+        Also known as the Ciudad Murada (Walled City) because of its most famous feature: a nearly three-mile-long circuit of massive stone walls and fortifications that almost completely surrounds the entire district.\n
+    From the city\'s foundation in 1571 to the end of Spanish rule in 1898, Intramuros was Manila. </string>
+
+    <string name="pinto_title">Pinto Art Museum</string>
+    <string name="pinto_text">The museum boasts six gallery spaces, outdoor art installations, and an indigenous arts wing where you can get an authentic Kalinga (North Luzon) tattoo.\n
+        It runs up and down a 1.3-hectare hillside property with white walled mission-style buildings and lush green plants. It feels like a relaxing resort, with amazing architecture and landscaping that really allows you to move around to enjoy the art as much as the little nooks you’ll find them in.\n
+        In the afternoon when you\’re taking a break at the café nestled under vines while munching on some jalapeno poppers and truffle fries, surrounded by some of the best art the Philippines has to offer, it\’s quite something.</string>
+
+    <string name="nationalmuseum_title">National Museum of Natural History</string>
+    <string name="nationalmuseum_text">The Natural History Museum focuses on the biodiversity and ecosystem of the Philippines. The exhibits include taxidermied animals that are local to our country–preserving these lost treasures.\n
+        Aside from the fascinating exhibits of the different species that make up the biodiversity and ecosystem of the Philippines, the museum is pretty interactive and encourages hands-on activities for children such as drawing tables.\n
+        The \“Tree of Life\” in the middle of the main atrium is a sight to see in itself. It\’s an elevator which brings you up to the fifth floor, granting you an amazing bird\’s-eye view of the museum. From there, you work your way down.</string>
+
+    <string name="ayala_title">The Ayala Museum</string>
+    <string name="ayala_text">Ayala Museum, located at the heart of the Makati Central Business District, Philippines, is a breathing space amidst the hustle and bustle of Metropolitan Manila.\n
+        Whenever visiting the country, the museum is surely one of the best places to lose yourself in amazing contemporary art and uplift your spirit through the Philippines\’ inspiring history. </string>
+
+
+    <!--restaurants-->
+    <string name="poblacion_title">Poblacion</string>
+    <string name="poblacion_text">From craft beers and signature cocktails to classic French wines, the once sleepy neighbourhood of Poblacion (previously known solely for its red-light district – and later on, dwarf boxing) has become the happening place in the Philippine capital.\n
+        Bar-hopping is the name of the game, so bear this in mind when choosing your footwear. </string>
+
+    <string name="aristocrat_title">Aristocrat</string>
+    <string name="aristocrat_text">Home of the best chicken barbeque in town since 1928.\n
+        Since Lola Asiang\’s brood was growing, she decided that since she was cooking for a lot of people already (the Reyes family had 13 children) might as well earn from all that effort.\n
+        Asiang quickly converted the ground floor of their house in Marquez de Comillas into an eatery that she called Lapu-Lapu. Early on she decided that she would always cook and serve delicious and affordable Filipino food.</string>
+
+    <string name="spiral_title">Spiral</string>
+    <string name="spiral_text">Spiral redefines interactive dining in a gastronomic voyage nonpareil.\n
+        A Sofitel flagship, Spiral is divided into 21 dining ateliers. In France, an atelier is an artist\’s special workshop and in Spiral, it is where secret recipes are masterfully prepared right your very eyes.\n
+        The multi-awarded dining destination features an enviable range of cuisine created with the focus and attention to detail by seasoned culinary artisans.</string>
+
+    <string name="cafeilang_title">Cafe Ilang Ilang</string>
+    <string name="cafeilang_text">The new Café Ilang-Ilang is a renaissance of chic casual dining which brings together a vast array of cuisines from across all continents.\n
+        Designed artfully to satisfy the distinguishing palate, the spacious restaurant features an extensive selection of buffet delights with a fresh spin on its various open kitchens and a delectable desserts space that highlights its tradition of unique and excellent dining.</string>
+
+    <!--events-->
+    <string name="zerowaste_title">Good Trade\'s Zero Waste Lawn Party</string>
+    <string name="zerowaste_text">Enjoy a casual and chill lawn party in the greenest way possible along with like-minded peers attending the occasion!\n
+        The main purpose of the event is to give back to the community, help people in need, and gather everyone who is willing to support and donate.\n
+        If you have things that you don\’t need anymore, such as clothes, shoes, bags, accessories, books, toys, home ware, and unused hygiene items, you may donate them at the event for better use.\n
+        You can also provide plastic bottles, wine bottles, metal, e-waste, paper, eco-bricks, soda can tab, bottle caps, and clean plastic wrappers for recycling.</string>
+
+    <string name="bazaar_title">World Bazaar Festival</string>
+    <string name="bazaar_text">Every year, the charity bazaar is committed to introducing a new theme to its visitors and this year, WBF goes retro! Visit over 800 booths offering an array of products from top brands, local makers, and foreign retailers from Thailand, India, and Singapore.\n
+        Channel that holiday spirit and drop by the Christmas Village that will also be set-up during the charity bazaar.\n </string>
+
+    <string name="ballet_title">Philippine Ballet Theatre Presents \"The Nutcracker\"</string>
+    <string name="ballet_text">The Philippine Ballet Theatre kicks off the Yuletide dance holiday season with the world\’s beloved classic Christmas ballet, The Nutcracker, on November 17-18, 2018 at the Cultural Center of the Philippines\’ Main Theater.</string>
+
+    <string name="bayani_title">Bayani Run</string>
+    <string name="bayani_text">For Php 650, you can have a marathon at any distance from 3k, 5k, and 10k. An important side note: for every kilometer, the event requires participants to pay a pledge fee of Php 30.  The pledge fee will be directly deposited to the participant\’s chosen organization or advocacy.\n
+        A portion of the registration fee collected goes to local NGOs in support of varying advocacies for poverty, environment, children and youth, health, hunger, among others.</string>
+
+
+
+</resources>

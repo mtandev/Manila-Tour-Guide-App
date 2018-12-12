@@ -1,0 +1,88 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--HOME STYLES-->
+    <!--linear layout-->
+    <style name="home_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_margin">@dimen/header_home</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <!-- header -->
+    <style name="home_header">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:padding">@dimen/padding_home</item>
+        <item name="android:textSize">@dimen/header_home</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:layout_marginBottom">@dimen/margin_home</item>
+    </style>
+
+    <!--photo -->
+    <style name="home_photo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <!-- text -->
+    <style name="home_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:text">@string/home_text</item>
+        <item name="android:layout_marginTop">@dimen/margin_home</item>
+        <item name="android:layout_marginBottom">@dimen/margin_home</item>
+    </style>
+
+    <!--nav bar-->
+    <style name="nav_bar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:layout_marginBottom">@dimen/margin_item</item>
+        <item name="android:padding">@dimen/margin_item</item>
+    </style>
+
+    <!-- nav icons -->
+    <style name="nav_icons">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <!--ITEMS-->
+    <!--title -->
+    <style name="item_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/header_home</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:layout_marginBottom">@dimen/margin_item</item>
+        <item name="android:layout_margin">@dimen/margin_item</item>
+    </style>
+
+    <!--text-->
+    <style name="item_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/margin_item</item>
+        <item name="android:layout_marginBottom">@dimen/margin_item</item>
+    </style>
+
+</resources>
